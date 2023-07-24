@@ -1,0 +1,10 @@
+{
+  "Nombre": "Alejandro",
+  "Direccion": "Avenida Portugal",
+  "Salario": 15000,
+  "Paises visitados": [
+    "Eslovaquia",
+    "Francia",
+    "Portugal"
+  ]
+}

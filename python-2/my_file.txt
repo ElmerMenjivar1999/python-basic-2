@@ -1,0 +1,6 @@
+Mi nombre es Elmer
+Mi apellido es Menjivar
+24 anios
+Mi lenguaje favorito es C++
+Aunque tambien me gusta kotlin
+Y Swift
